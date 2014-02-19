@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">Start</string>
+    <string name="name">Imię</string>
+    <string name="surname">Nazwisko</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="prev">Poprzedni</string>
+    <string name="next">Następny</string>
+    <string name="end">Zakończ quiz</string>
+    <string name="title_activity_end">EndActivity</string>
+
+</resources>
